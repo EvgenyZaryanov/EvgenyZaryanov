@@ -4,7 +4,7 @@ Eugene Zaryanov
 Fullstack-web-developper
 --------------------
 
-I study web development as a Full-stack Developer simultaneously exploring other related stacks. I always try to push my programming skills forward and constantly improve and optimize my code.
+I study the frontend as well as backend along with exploring other related stacks. I always try to push my programming skills forward and constantly improve and optimize my code.
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [https://github.com/EvgenyZaryanov?tab=repositories](http://https://github.com/EvgenyZaryanov?tab=repositories)

@@ -1,7 +1,7 @@
 Eugene Zaryanov
 =======================================================================================================================================
 
-Fullstack-developper
+Fullstack-web-developper
 --------------------
 
 I study web development as a Full-stack Developer simultaneously exploring other related stacks. I always try to push my programming skills forward and constantly improve and optimize my code.

@@ -11,7 +11,7 @@ I am studying for a full stack web developer together with exploring other relat
 * ✉️  You can contact me at [eugenezaryanov@yandex.ru](mailto:eugenezaryanov@yandex.ru)
 * 🧠  I'm learning JavaScript, React, Vite, Express, Node.js, NPM, Mongoose, PHP etc.
 * 🤝  I'm open to collaborating on meaningful projects that could be useful for people.
-* ⚡  I'm also keen on painting, photography, videography, design and freezelight technique.
+* ⚡  I'm also keen on drawing, photography, videography, design and freezelight technique.
 
 ### Skills
 

@@ -1,7 +1,7 @@
 Eugene Zaryanov
 =======================================================================================================================================
 
-Full Stack-developer
+Full-stack Web developer
 --------------------
 
 I am studying for a full stack web developer together with exploring other related stacks and frameworks. I always try to push my programming skills forward, constantly improve and optimize my code along with learning and mastering new technologies. My dream is to work in a friendly team of enthusiastic professionals, gain new experience and create a quality product.

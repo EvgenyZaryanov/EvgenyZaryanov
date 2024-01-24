@@ -8,7 +8,7 @@ I am studying for a full stack web developer together with exploring other relat
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [https://github.com/EvgenyZaryanov?tab=repositories](http://https://github.com/EvgenyZaryanov?tab=repositories)
 * ✉️  You can contact me at [eugenezaryanov@yandex.ru](mailto:eugenezaryanov@yandex.ru)
-* 🧠  I'm using JavaScript, React, Vite, Express, Node.js, NPM, Mongoose, PHP etc.
+* 🧠  I'm using JavaScript, React, Vite, Express, Node.js, NPM, Mongoose, MongoDB etc. 
 * 🤝  I'm open to collaborating on meaningful projects that could be useful for people.
 * ⚡  I'm also keen on drawing, photography, videography, design and freezelight technique.
 

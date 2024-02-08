@@ -9,7 +9,7 @@ __Hi, I'm a fullstack web developer from Moscow. I am engaged in the development
 * 🖥️  See my portfolio at [https://github.com/EvgenyZaryanov?tab=repositories](http://https://github.com/EvgenyZaryanov?tab=repositories).
 * ✉️  You can contact me at [WhatsApp](https://wa.me/79055004952), [Telegram](https://t.me/Eugene_Zar).
 * 🧠  I'm using JavaScript, React, Vite, Node.js, Express, MongoDB etc. 
-* 🤝  I'm open to collaborating on meaningful projects that could be useful for a wide audience.
+* 🤝  I'm open to collaborating on meaningful projects that could be useful for a wide or specific audience.
 * ⚡  I'm fond of drawing, photography & videography in my free time. I love sports, music and travel. In the old days, I sang in my rock band. Still keep the warm memories of it. 
 
 ### Skills

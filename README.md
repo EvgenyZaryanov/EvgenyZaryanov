@@ -3,14 +3,14 @@
 Fullstack Web developer
 --------------------
 
-__Hi, I'm a fullstack web developer from Moscow. I am engaged in the development of functional MPA & SPA applications, configure the environment on the server. I strive for code purity, creating the most comfortable and aesthetic interface. I'd love to be part of a friendly team, receive and share experience, create a high-quality product.__
+__Hi, I'm a fullstack web developer from Moscow. I work on developing functional MPA & SPA apps, configuring the server environment. I'm all about keeping the code clean, creating a user-friendly and aesthetically pleasing interface. I want to be a part of a fun team, learn from and share with others, and create a top-notch product.__
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [https://github.com/EvgenyZaryanov?tab=repositories](http://https://github.com/EvgenyZaryanov?tab=repositories).
 * ✉️  You can contact me at [WhatsApp](https://wa.me/79055004952), [Telegram](https://t.me/Eugene_Zar).
 * 🧠  I'm using JavaScript, React, Vite, Node.js, Express, MongoDB etc. 
-* 🤝  I'm open to collaborating on meaningful projects that could be useful for a wide or specific audience.
-* ⚡  I'm fond of drawing, photography & videography in my free time. I love sports, music and travel. In the old days, I sang in my rock band. Still keep the warm memories of it. 
+* 🤝  I'd be down to work on some cool projects that might be useful to a wide or niche audience.
+* ⚡  I like to draw, take photos, and video in my free time. I also love sports, music, and traveling. In the past, I used to sing in a rock band, and I still have warm memories of that. 
 
 ### Skills
 

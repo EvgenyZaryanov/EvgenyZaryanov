@@ -3,7 +3,7 @@
 Full-stack Web developer
 --------------------
 
-__Hi there, I'm the full-stack web developer from Moscow. I work on developing functional MPA & SPA apps, configuring the server environment. I'm all about keeping the code clean, creating a user-friendly and aesthetically pleasing interface. I want to be a part of a fun team, learn from and share with others, and create a top-notch product.__
+__Hi there, I'm the full-stack web developer who works on developing functional MPA & SPA apps, configuring the server environment. I'm all about keeping the code clean, creating a user-friendly and aesthetically pleasing interface. I want to be a part of a fun team, learn from and share with others, and create a top-notch product.__
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [https://github.com/EvgenyZaryanov?tab=repositories](http://https://github.com/EvgenyZaryanov?tab=repositories).

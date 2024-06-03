@@ -1,12 +1,12 @@
 # __Eugene Zaryanov__
 
-Full-stack Web developer
+Frontend Web developer
 --------------------
 
-__Hi there, I'm the full-stack web developer who works on developing functional MPA & SPA apps, configuring the server environment. I'm all about keeping the code clean, creating a user-friendly and aesthetically pleasing interface. I want to be a part of a fun team, learn from and share with others, and create a top-notch product.__
+__Hi there, I'm frontend web developer who works on developing functional MPA & SPA apps, configuring the server environment. I'm all about keeping the code clean, creating a user-friendly and aesthetically pleasing interface. I want to be a part of a fun team, learn from and share with others, and ofcourse create a top-notch product.__
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [https://github.com/EvgenyZaryanov?tab=repositories](http://https://github.com/EvgenyZaryanov?tab=repositories).
+* 🖥️  See my [portfolio](https://ezp-portfolio.netlify.app/).
 * ✉️  You can contact me at [WhatsApp](https://wa.me/79055004952), [Telegram](https://t.me/Eugene_Zar).
 * 🧠  I'm using JavaScript, React, Vite, Node.js, Express, MongoDB etc. 
 * 🤝  I'd be down to work on some cool projects that might be useful to a wide or niche audience.

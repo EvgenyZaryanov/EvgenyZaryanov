@@ -10,7 +10,7 @@ __Hi there, I'm frontend web developer who works on developing functional MPA & 
 * ✉️  You can contact me at [WhatsApp](https://wa.me/79055004952), [Telegram](https://t.me/Eugene_Zar).
 * 🧠  I'm using JavaScript, React, Vite, Node.js, Express, MongoDB etc. 
 * 🤝  I'd be down to work on some cool projects that might be useful to a wide or niche audience.
-* ⚡  I like to draw, take photos, and video in my free time. I also love sports, music, and traveling. In the past, I used to sing in a rock band, and I still have warm memories of that. 
+* ⚡  I'm keen on drawing, photography and videography in my free time. I also love sports, music, and traveling. In the past, I used to sing in a rock band, and I still have warm memories of that. 
 
 ### Skills
 
